@@ -1,0 +1,28 @@
+Mochila del viajero
+
+¿Quién inventó el sistema de control de versión Git y por qué?
+
+Git fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. 
+Git es un software escrito en C, con interfaz por línea de comandos, disponible para Windows, MacOS X 
+y GNU/Linux.
+Un control de versiones es un sistema que registra los cambios realizados en un archivo o conjunto de 
+archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante.
+
+¿A quién pertenece actualmente Github y por qué?
+
+Actualmente, GitHub pertenece Microsoft, quien se lo compró a Linux en 2018.
+Como un buen ejemplo de start-up, GitHub no rinde beneficios en comparación con el volumen de inversión que ha ido recibiendo. 
+Al principio, cuando el dinero provenía de sus tres fundadores, el resultado anual era positivo en relación con la importante tasa de crecimiento que consiguieron.
+Pero las alarmas empezaron a saltar cuando el reputado medio Bloomberg publicó un informe en dónde se
+mostraba que el ritmo de gasto de GitHub, para seguir creciendo y protegerse de sus competidores, había 
+llegado a los 66 millones de dólares en 9 meses.
+La cosa se tuvo que empezar a poner de color hormiga (no hay acceso a las cifras) cuando en agosto del 2017 Chris Wanstrath, fundador y CEO de la compañía, 
+ponía pies en polvorosa (o le obligaban) y no había forma de encontrar una nueva cabeza que dirigiera los pasos de la empresa.
+Todos los analistas veían únicamente tres soluciones, la cual una de ellas (el cierre) hubiera significado un desastre tanto económico para los inversores, como un problema de enormes repercusiones para la comunidad del desarrollo de software.
+Otra opción era preparar una salida a Bolsa basada en la confianza de una plataforma robusta, que ha vencido a competidores del calibre de Google Code, Sourceforge y CodePlex, y que tiene millones y millones de clientes que respaldan el servicio. Pero con el inconveniente de ser un poco “pequeña” aún para entrar en el juego de la especulación financiera; habiendo un riesgo cierto de que saliera mal, y perdiera lo poco que le podía quedar de crédito.
+La última opción, y que es la que ha resultado ganadora, es conseguir vender la plataforma a una de las grandes del sector como podría ser Google, Microsoft, Oracle, IBM, o similar. Eliminando de un plumazo todos los problemas financieros y obteniendo unos más que suculentos beneficios.
+Y les ha salido muy bien. En el momento de la venta, GitHub estaba sobre estimada en unos dos mil millones de dólares, y Microsoft ha puesto encima de la mesa más del triple de dinero: 7.500 millones.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Sí, existe GitHub Desktop y hay algunos editores de texto e IDEs que ya vienen con una interfaz gráfica para trabajar con Git. 
